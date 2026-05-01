@@ -1,4 +1,4 @@
-# GameData DataMining Project
+# Games and Success in Students : A Data Mining Project
 
 A data mining project analyzing the relationship between students' gaming habits and academic performance using the **GameAndGrade dataset**.
 
